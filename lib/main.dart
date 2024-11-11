@@ -33,9 +33,9 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => const TabsScreen(),
-        '/filtersScreen': (context) => FiltersScreen(),
-        '/mealsScreen': (context) => MealsScreen(),
-        '/mealsScreen/mealDetailScreeen': (context) => MealDetailScreen(),
+        '/filtersScreen': (context) => const FiltersScreen(),
+        '/mealsScreen': (context) => const MealsScreen(),
+        '/mealsScreen/mealDetailScreeen': (context) => const MealDetailScreen(),
       },
     );
   }
