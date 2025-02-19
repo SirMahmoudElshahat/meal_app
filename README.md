@@ -6,7 +6,6 @@ A **Flutter-based meal recipe app** that allows users to browse different meal c
 - **Flutter**: Cross-platform mobile development framework.
 - **Dart**: Programming language used for Flutter.
 - **Riverpod**: State management solution.
-- **SQLite**: Local database for storing favorites.
 - **Transparent Image**: Provides smooth image loading.
 - **Google Fonts**: Enhances the UI with custom fonts.
 
